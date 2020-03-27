@@ -1,5 +1,8 @@
 # Doubler Assignment 
 
+I added my name here.
+
+
 Add code to [Doubler.doubleIt()](src/main/java/Doubler.java) to return a doubled value.
 
 ## Run your code with:
